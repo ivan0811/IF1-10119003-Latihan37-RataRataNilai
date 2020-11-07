@@ -2,6 +2,17 @@ package com.ivanfaathirza.rataratanilai;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author Ivan
+ * NAMA         : Ivan Faathirza
+ * KELAS        : IF1
+ * NIM          : 10119003
+ * Deskripsi Program :  program ini untuk menghitung 
+ * rata-rata dari nilai serta jumlah mahasiswa, sudah berbasis objek dengan 
+ * instansiasi objek nilai
+ */
+
 public class Latihan37RataRataNilai {
     static Scanner scan = new Scanner(System.in);
     private static int nilaiMhs[];
